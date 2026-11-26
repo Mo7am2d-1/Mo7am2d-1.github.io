@@ -1,0 +1,29 @@
+*{box-sizing:border-box}
+:root{--ink:#1b2631;--mute:#5a6775;--line:#e3e7ec;--accent:#0b5cad;--bg:#f6f7f9}
+html{scroll-behavior:smooth}
+body{margin:0;font:17px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+main{max-width:800px;margin:0 auto;padding:56px 22px 72px}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+header.top{padding-bottom:28px;border-bottom:1px solid var(--line);margin-bottom:8px}
+h1{font-size:2.6rem;line-height:1.15;letter-spacing:-.02em;margin:0 0 6px}
+.sub{font-size:1.2rem;color:var(--mute);margin:0 0 18px}
+header.top p{max-width:640px}
+.links{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:20px}
+.links a{display:inline-block;padding:8px 14px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);font-size:.95rem;margin:0}
+.links a:hover{border-color:var(--accent);color:var(--accent);text-decoration:none}
+h2{font-size:.85rem;text-transform:uppercase;letter-spacing:.12em;color:var(--mute);margin:52px 0 18px;display:flex;align-items:center;gap:12px}
+h2::after{content:"";flex:1;height:1px;background:var(--line)}
+.card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:20px 22px;margin-bottom:16px;box-shadow:0 1px 2px rgba(20,30,40,.04)}
+.card h3{margin:0 0 6px;font-size:1.15rem}.card p{margin:6px 0}
+.card ul{margin:10px 0}
+.tag{font-size:.88rem;color:var(--mute)}
+ul{padding-left:20px}li{margin:3px 0}
+img{max-width:100%;height:auto;border:1px solid var(--line);border-radius:8px;margin:10px 0}
+dl{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px 22px;margin:0}
+dt{font-weight:600;font-size:.9rem;color:var(--mute);text-transform:uppercase;letter-spacing:.06em}
+dd{margin:2px 0 14px}dd:last-child{margin-bottom:0}
+.ih{font-size:1.02rem;margin:22px 0 4px}
+details{margin:18px 0;background:#fff;border:1px solid var(--line);border-radius:10px;padding:4px 20px 12px}
+summary{cursor:pointer;padding:10px 0;color:var(--accent)}
+footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:#7b8794;font-size:.88rem}
+@media(max-width:480px){body{font-size:16px}h1{font-size:2rem}main{padding:36px 18px 56px}.card{padding:16px}}
