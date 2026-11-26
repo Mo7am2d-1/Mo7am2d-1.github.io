@@ -43,7 +43,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 6789
+/Length 6940
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -59,63 +59,55 @@ BT 1 0 0 1 48 747.8898 Tm (kfammh87@gmail.com | +20 115 512 1864 | Egypt) Tj T* 
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
 BT 1 0 0 1 48 734.8898 Tm (GitHub: github.com/Mo7am2d-1 | Portfolio: mo7am2d-1.github.io) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 48 721.8898 Tm (LinkedIn: linkedin.com/in/mohamed-faisal-safwat-saqr-81abb342b) Tj T* ET
 BT /F2 10 Tf 12 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 718.8898 Tm (PROFILE) Tj T* ET
+BT 1 0 0 1 48 705.8898 Tm (PROFILE) Tj T* ET
 .811765 .839216 .870588 RG
-n 48 714.8898 m 547.2756 714.8898 l S
+n 48 701.8898 m 547.2756 701.8898 l S
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 700.8898 Tm (Third-year Information Technology student building Python tools and machine learning projects. Experience through) Tj T* ET
+BT 1 0 0 1 48 687.8898 Tm (Third-year Information Technology student building Python tools and machine learning projects. Experience through) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 687.8898 Tm (projects in data preparation, model comparison, Streamlit dashboards and local AI processing. Seeking a first paid) Tj T* ET
+BT 1 0 0 1 48 674.8898 Tm (projects in data preparation, model comparison, Streamlit dashboards and local AI processing. Seeking a first paid) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 674.8898 Tm (opportunity in junior analytics, Python development or applied ML support.) Tj T* ET
+BT 1 0 0 1 48 661.8898 Tm (opportunity in junior analytics, Python development or applied ML support.) Tj T* ET
 BT /F2 10 Tf 12 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 651.8898 Tm (TECHNICAL SKILLS) Tj T* ET
+BT 1 0 0 1 48 638.8898 Tm (TECHNICAL SKILLS) Tj T* ET
 .811765 .839216 .870588 RG
-n 48 647.8898 m 547.2756 647.8898 l S
+n 48 634.8898 m 547.2756 634.8898 l S
 BT /F2 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 633.8898 Tm (Programming: ) Tj T* ET
+BT 1 0 0 1 48 620.8898 Tm (Programming: ) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 115.564 633.8898 Tm (Python, C, C++, Java, HTML; database and data structures fundamentals.) Tj T* ET
+BT 1 0 0 1 115.564 620.8898 Tm (Python, C, C++, Java, HTML; database and data structures fundamentals.) Tj T* ET
 BT /F2 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 619.8898 Tm (Data & ML: ) Tj T* ET
+BT 1 0 0 1 48 606.8898 Tm (Data & ML: ) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 100.25 619.8898 Tm (pandas, NumPy, scikit-learn; data cleaning, exploratory analysis, classification, cross-validation and model) Tj T* ET
-BT 1 0 0 1 48 606.8898 Tm (evaluation.) Tj T* ET
+BT 1 0 0 1 100.25 606.8898 Tm (pandas, NumPy, scikit-learn; data cleaning, exploratory analysis, classification, cross-validation and model) Tj T* ET
+BT 1 0 0 1 48 593.8898 Tm (evaluation.) Tj T* ET
 BT /F2 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 592.8898 Tm (Tools: ) Tj T* ET
+BT 1 0 0 1 48 579.8898 Tm (Tools: ) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 79.141 592.8898 Tm (Streamlit, Tkinter, GitHub, faster-whisper, Ollama; document text extraction.) Tj T* ET
+BT 1 0 0 1 79.141 579.8898 Tm (Streamlit, Tkinter, GitHub, faster-whisper, Ollama; document text extraction.) Tj T* ET
 BT /F2 10 Tf 12 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 568.8898 Tm (SELECTED PROJECTS) Tj T* ET
+BT 1 0 0 1 48 555.8898 Tm (SELECTED PROJECTS) Tj T* ET
 .811765 .839216 .870588 RG
-n 48 564.8898 m 547.2756 564.8898 l S
+n 48 551.8898 m 547.2756 551.8898 l S
 BT /F2 10.5 Tf 12.6 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 550.8898 Tm (AI Decision & Prediction System) Tj T* ET
+BT 1 0 0 1 48 537.8898 Tm (AI Decision & Prediction System) Tj T* ET
 BT /F1 8.5 Tf 10.2 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 538.8898 Tm (github.com/Mo7am2d-1/AI-Decision-Prediction-System) Tj T* ET
-.105882 .14902 .192157 rg
-n
-53.4 528.8898 m
-53.4 529.663 52.7732 530.2898 52 530.2898 c
-51.2268 530.2898 50.6 529.663 50.6 528.8898 c
-50.6 528.1166 51.2268 527.4898 52 527.4898 c
-52.7732 527.4898 53.4 528.1166 53.4 528.8898 c
-f*
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 62 525.8898 Tm (Built an educational churn-classification workflow using synthetic data, feature engineering and a held-out test split.) Tj T* ET
+BT 1 0 0 1 48 525.8898 Tm (github.com/Mo7am2d-1/AI-Decision-Prediction-System) Tj T* ET
 .105882 .14902 .192157 rg
 n
 53.4 515.8898 m
@@ -126,27 +118,27 @@ n
 f*
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 62 512.8898 Tm (Compared four models with five-fold cross-validation and a scikit-learn pipeline; added a Streamlit interface,) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 62 499.8898 Tm (evaluation reports and focused test cases.) Tj T* ET
-BT /F2 10.5 Tf 12.6 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 482.8898 Tm (Lecture AI) Tj T* ET
-BT /F1 8.5 Tf 10.2 TL ET
-.043137 .360784 .678431 rg
-BT 1 0 0 1 48 470.8898 Tm (github.com/Mo7am2d-1/Lecture-AI) Tj T* ET
+BT 1 0 0 1 62 512.8898 Tm (Built an educational churn-classification workflow using synthetic data, feature engineering and a held-out test split.) Tj T* ET
 .105882 .14902 .192157 rg
 n
-53.4 460.8898 m
-53.4 461.663 52.7732 462.2898 52 462.2898 c
-51.2268 462.2898 50.6 461.663 50.6 460.8898 c
-50.6 460.1166 51.2268 459.4898 52 459.4898 c
-52.7732 459.4898 53.4 460.1166 53.4 460.8898 c
+53.4 502.8898 m
+53.4 503.663 52.7732 504.2898 52 504.2898 c
+51.2268 504.2898 50.6 503.663 50.6 502.8898 c
+50.6 502.1166 51.2268 501.4898 52 501.4898 c
+52.7732 501.4898 53.4 502.1166 53.4 502.8898 c
 f*
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 62 457.8898 Tm (Built a Python desktop tool for PDF, Word and text extraction and audio/video transcription with faster-whisper.) Tj T* ET
+BT 1 0 0 1 62 499.8898 Tm (Compared four models with five-fold cross-validation and a scikit-learn pipeline; added a Streamlit interface,) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 62 486.8898 Tm (evaluation reports and focused test cases.) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 48 469.8898 Tm (Lecture AI) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+.043137 .360784 .678431 rg
+BT 1 0 0 1 48 457.8898 Tm (github.com/Mo7am2d-1/Lecture-AI) Tj T* ET
 .105882 .14902 .192157 rg
 n
 53.4 447.8898 m
@@ -157,56 +149,67 @@ n
 f*
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 62 444.8898 Tm (Integrated local Ollama models for chunk-based summarization, a Tkinter interface and Markdown/HTML) Tj T* ET
+BT 1 0 0 1 62 444.8898 Tm (Built a Python desktop tool for PDF, Word and text extraction and audio/video transcription with faster-whisper.) Tj T* ET
+.105882 .14902 .192157 rg
+n
+53.4 434.8898 m
+53.4 435.663 52.7732 436.2898 52 436.2898 c
+51.2268 436.2898 50.6 435.663 50.6 434.8898 c
+50.6 434.1166 51.2268 433.4898 52 433.4898 c
+52.7732 433.4898 53.4 434.1166 53.4 434.8898 c
+f*
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 62 431.8898 Tm (study-reference outputs.) Tj T* ET
+BT 1 0 0 1 62 431.8898 Tm (Integrated local Ollama models for chunk-based summarization, a Tkinter interface and Markdown/HTML) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 62 418.8898 Tm (study-reference outputs.) Tj T* ET
 BT /F2 10 Tf 12 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 404.8898 Tm (SELECTED TRAINING) Tj T* ET
+BT 1 0 0 1 48 391.8898 Tm (SELECTED TRAINING) Tj T* ET
 .811765 .839216 .870588 RG
-n 48 400.8898 m 547.2756 400.8898 l S
+n 48 387.8898 m 547.2756 387.8898 l S
 BT /F2 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 386.8898 Tm (DEPI | Nov 2025 - Jul 2026) Tj T* ET
+BT 1 0 0 1 48 373.8898 Tm (DEPI | Nov 2025 - Jul 2026) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 373.8898 Tm (AI & Data Science - Microsoft Machine Learning Engineer training track, MCIT.) Tj T* ET
+BT 1 0 0 1 48 360.8898 Tm (AI & Data Science - Microsoft Machine Learning Engineer training track, MCIT.) Tj T* ET
 BT /F2 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 358.8898 Tm (NTI / ITIDA | Aug - Sep 2026) Tj T* ET
+BT 1 0 0 1 48 345.8898 Tm (NTI / ITIDA | Aug - Sep 2026) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 345.8898 Tm (Machine Learning summer training, 120 hours, including 30 freelancing hours.) Tj T* ET
+BT 1 0 0 1 48 332.8898 Tm (Machine Learning summer training, 120 hours, including 30 freelancing hours.) Tj T* ET
 BT /F2 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 330.8898 Tm (NTI | Jul - Aug 2026) Tj T* ET
+BT 1 0 0 1 48 317.8898 Tm (NTI | Jul - Aug 2026) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 317.8898 Tm (Artificial Intelligence training, 80 hours.) Tj T* ET
+BT 1 0 0 1 48 304.8898 Tm (Artificial Intelligence training, 80 hours.) Tj T* ET
 BT /F2 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 302.8898 Tm (IBM SkillsBuild | Aug 2026) Tj T* ET
+BT 1 0 0 1 48 289.8898 Tm (IBM SkillsBuild | Aug 2026) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 289.8898 Tm (Web Development Fundamentals badge) Tj T* ET
+BT 1 0 0 1 48 276.8898 Tm (Web Development Fundamentals badge) Tj T* ET
 BT /F2 10 Tf 12 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 264.8898 Tm (EDUCATION & LANGUAGE) Tj T* ET
+BT 1 0 0 1 48 251.8898 Tm (EDUCATION & LANGUAGE) Tj T* ET
 .811765 .839216 .870588 RG
-n 48 260.8898 m 547.2756 260.8898 l S
+n 48 247.8898 m 547.2756 247.8898 l S
 BT /F2 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 246.8898 Tm (Delta Technology University \(DTU\)) Tj T* ET
+BT 1 0 0 1 48 233.8898 Tm (Delta Technology University \(DTU\)) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 233.8898 Tm (Technological College of Industry and Energy) Tj T* ET
+BT 1 0 0 1 48 220.8898 Tm (Technological College of Industry and Energy) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 220.8898 Tm (Information Technology, third year; currently enrolled.) Tj T* ET
+BT 1 0 0 1 48 207.8898 Tm (Information Technology, third year; currently enrolled.) Tj T* ET
 BT /F1 9.5 Tf 11.4 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 207.8898 Tm (English: B1 \(self-assessed\)) Tj T* ET
+BT 1 0 0 1 48 194.8898 Tm (English: B1 \(self-assessed\)) Tj T* ET
  
 endstream
 endobj
@@ -232,5 +235,5 @@ trailer
 /Size 9
 >>
 startxref
-7815
+7966
 %%EOF
