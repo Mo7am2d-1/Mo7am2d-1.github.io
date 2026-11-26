@@ -17,7 +17,73 @@ endobj
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (mailto:kfammh87@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 44 753.8898 136.151 764.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/mohamed-faisal-safwat-saqr-81abb342b)
+>> /Border [ 0 0 0 ] /Rect [ 44 738.8898 267.578 749.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Mo7am2d-1)
+>> /Border [ 0 0 0 ] /Rect [ 283.578 738.8898 378.114 749.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mo7am2d-1.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 394.114 738.8898 478.651 749.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Mo7am2d-1/Lecture-AI)
+>> /Border [ 0 0 0 ] /Rect [ 44 505.1898 176.397 515.7898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Mo7am2d-1/AI-Decision-Prediction-System)
+>> /Border [ 0 0 0 ] /Rect [ 44 450.5898 253.324 461.1898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mo7am2d-1.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 44 395.9898 192.178 406.5898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mo7am2d-1.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 44 341.3898 174.9608 351.9898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -25,215 +91,373 @@ endobj
   /Type /Page
 >>
 endobj
-5 0 obj
+14 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/PageMode /UseNone /Pages 16 0 R /Type /Catalog
 >>
 endobj
-6 0 obj
+15 0 obj
 <<
 /Author (Mohamed Faisal) /CreationDate (D:20220101050000+00'00') /Creator (ReportLab PDF Library - www.reportlab.com) /Keywords () /ModDate (D:20220101050000+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (unspecified) /Title (Mohamed Faisal | CV) /Trapped /False
+  /Subject (Curriculum vitae) /Title (Mohamed Faisal - CV) /Trapped /False
 >>
 endobj
-7 0 obj
+16 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/Count 2 /Kids [ 12 0 R 13 0 R ] /Type /Pages
 >>
 endobj
-8 0 obj
+17 0 obj
 <<
-/Length 6940
+/Length 9972
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-BT /F2 24 Tf 28.8 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 785.8898 Tm (Mohamed Faisal) Tj T* ET
+.058824 .152941 .258824 rg
+n 0 729.8898 595.2756 112 re f*
+.043137 .360784 .678431 rg
+n 0 726.8898 595.2756 3 re f*
+1 1 1 rg
+BT /F2 26 Tf 31.2 TL ET
+BT 1 0 0 1 44 795.8898 Tm (Mohamed Faisal) Tj T* ET
 BT /F1 11.5 Tf 13.8 TL ET
-.352941 .403922 .458824 rg
-BT 1 0 0 1 48 765.8898 Tm (IT student | Python, data analysis & machine learning projects) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 747.8898 Tm (kfammh87@gmail.com | +20 115 512 1864 | Egypt) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 734.8898 Tm (GitHub: github.com/Mo7am2d-1 | Portfolio: mo7am2d-1.github.io) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 721.8898 Tm (LinkedIn: linkedin.com/in/mohamed-faisal-safwat-saqr-81abb342b) Tj T* ET
-BT /F2 10 Tf 12 TL ET
-.043137 .360784 .678431 rg
-BT 1 0 0 1 48 705.8898 Tm (PROFILE) Tj T* ET
-.811765 .839216 .870588 RG
-n 48 701.8898 m 547.2756 701.8898 l S
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 687.8898 Tm (Third-year Information Technology student building Python tools and machine learning projects. Experience through) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 674.8898 Tm (projects in data preparation, model comparison, Streamlit dashboards and local AI processing. Seeking a first paid) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 661.8898 Tm (opportunity in junior analytics, Python development or applied ML support.) Tj T* ET
-BT /F2 10 Tf 12 TL ET
-.043137 .360784 .678431 rg
-BT 1 0 0 1 48 638.8898 Tm (TECHNICAL SKILLS) Tj T* ET
-.811765 .839216 .870588 RG
-n 48 634.8898 m 547.2756 634.8898 l S
-BT /F2 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 620.8898 Tm (Programming: ) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 115.564 620.8898 Tm (Python, C, C++, Java, HTML; database and data structures fundamentals.) Tj T* ET
-BT /F2 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 606.8898 Tm (Data & ML: ) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 100.25 606.8898 Tm (pandas, NumPy, scikit-learn; data cleaning, exploratory analysis, classification, cross-validation and model) Tj T* ET
-BT 1 0 0 1 48 593.8898 Tm (evaluation.) Tj T* ET
-BT /F2 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 579.8898 Tm (Tools: ) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 79.141 579.8898 Tm (Streamlit, Tkinter, GitHub, faster-whisper, Ollama; document text extraction.) Tj T* ET
-BT /F2 10 Tf 12 TL ET
-.043137 .360784 .678431 rg
-BT 1 0 0 1 48 555.8898 Tm (SELECTED PROJECTS) Tj T* ET
-.811765 .839216 .870588 RG
-n 48 551.8898 m 547.2756 551.8898 l S
+.737255 .827451 .92549 rg
+BT 1 0 0 1 44 776.8898 Tm (Information Technology student | Python, data analysis and machine learning) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+1 1 1 rg
+BT /F1 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 44 755.8898 Tm (kfammh87@gmail.com) Tj T* ET
+.498039 .596078 .701961 rg
+BT 1 0 0 1 142.151 755.8898 Tm (|) Tj T* ET
+1 1 1 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 152.151 755.8898 Tm (+20 115 512 1864) Tj T* ET
+.498039 .596078 .701961 rg
+BT 1 0 0 1 230.961 755.8898 Tm (|) Tj T* ET
+1 1 1 rg
+BT 1 0 0 1 240.961 755.8898 Tm (Egypt) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.811765 .890196 .980392 rg
+BT 1 0 0 1 44 740.8898 Tm (linkedin.com/in/mohamed-faisal-safwat-saqr-81abb342b) Tj T* ET
+.498039 .596078 .701961 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 273.578 740.8898 Tm (|) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.811765 .890196 .980392 rg
+BT 1 0 0 1 283.578 740.8898 Tm (github.com/Mo7am2d-1) Tj T* ET
+.498039 .596078 .701961 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 384.114 740.8898 Tm (|) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.811765 .890196 .980392 rg
+BT 1 0 0 1 394.114 740.8898 Tm (mo7am2d-1.github.io) Tj T* ET
 BT /F2 10.5 Tf 12.6 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 537.8898 Tm (AI Decision & Prediction System) Tj T* ET
-BT /F1 8.5 Tf 10.2 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 525.8898 Tm (github.com/Mo7am2d-1/AI-Decision-Prediction-System) Tj T* ET
+BT 1 0 0 1 44 698.8898 Tm (SUMMARY) Tj T* ET
+.835294 .862745 .894118 RG
+.8 w
+n 106.243 702.3898 m 551.2756 702.3898 l S
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-n
-53.4 515.8898 m
-53.4 516.663 52.7732 517.2898 52 517.2898 c
-51.2268 517.2898 50.6 516.663 50.6 515.8898 c
-50.6 515.1166 51.2268 514.4898 52 514.4898 c
-52.7732 514.4898 53.4 515.1166 53.4 515.8898 c
-f*
-BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 44 684.8898 Tm (Third-year Information Technology student who builds Python tools and machine learning projects. Hands-on work in data) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 62 512.8898 Tm (Built an educational churn-classification workflow using synthetic data, feature engineering and a held-out test split.) Tj T* ET
+BT 1 0 0 1 44 672.0898 Tm (preparation, model comparison, Streamlit interfaces and local AI processing. Looking for a first paid opportunity in junior) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-n
-53.4 502.8898 m
-53.4 503.663 52.7732 504.2898 52 504.2898 c
-51.2268 504.2898 50.6 503.663 50.6 502.8898 c
-50.6 502.1166 51.2268 501.4898 52 501.4898 c
-52.7732 501.4898 53.4 502.1166 53.4 502.8898 c
-f*
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 62 499.8898 Tm (Compared four models with five-fold cross-validation and a scikit-learn pipeline; added a Streamlit interface,) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 62 486.8898 Tm (evaluation reports and focused test cases.) Tj T* ET
+BT 1 0 0 1 44 659.2898 Tm (analytics, Python development or applied ML support.) Tj T* ET
 BT /F2 10.5 Tf 12.6 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 469.8898 Tm (Lecture AI) Tj T* ET
-BT /F1 8.5 Tf 10.2 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 457.8898 Tm (github.com/Mo7am2d-1/Lecture-AI) Tj T* ET
+BT 1 0 0 1 44 637.4898 Tm (SKILLS) Tj T* ET
+.835294 .862745 .894118 RG
+.8 w
+n 89.338 640.9898 m 551.2756 640.9898 l S
+BT /F2 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
+BT 1 0 0 1 44 623.4898 Tm (Programming) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 128 623.4898 Tm (Python, C, C++, Java, HTML; database and data structures fundamentals) Tj T* ET
+BT /F2 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 609.1898 Tm (Data and ML) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 128 609.1898 Tm (pandas, NumPy, scikit-learn; data cleaning, exploratory analysis, classification, cross-validation, model) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 128 596.3898 Tm (evaluation) Tj T* ET
+BT /F2 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 582.0898 Tm (Tools) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 128 582.0898 Tm (Streamlit, Tkinter, GitHub, faster-whisper, Ollama; document text extraction) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
+.043137 .360784 .678431 rg
+BT 1 0 0 1 44 558.7898 Tm (PROJECTS) Tj T* ET
+.835294 .862745 .894118 RG
+.8 w
+n 108.595 562.2898 m 551.2756 562.2898 l S
+BT /F2 10.3 Tf 12.36 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 544.7898 Tm (Lecture AI) Tj T* ET
+BT /F1 8.8 Tf 10.56 TL ET
+.333333 .380392 .431373 rg
+BT 1 0 0 1 102.367 544.7898 Tm (Python, Tkinter, faster-whisper, Ollama) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 532.7898 Tm (Desktop tool that extracts text from PDF, Word and text files and transcribes audio and video, then summarizes lectures) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 519.9898 Tm (with local Ollama models into Markdown and HTML study references. Runs locally with no paid API.) Tj T* ET
+BT /F1 8.6 Tf 10.32 TL ET
+.043137 .360784 .678431 rg
+BT 1 0 0 1 44 507.1898 Tm (github.com/Mo7am2d-1/Lecture-AI) Tj T* ET
+BT /F2 10.3 Tf 12.36 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 490.1898 Tm (AI Decision and Prediction System) Tj T* ET
+BT /F1 8.8 Tf 10.56 TL ET
+.333333 .380392 .431373 rg
+BT 1 0 0 1 222.0015 490.1898 Tm (Python, scikit-learn, Streamlit) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 478.1898 Tm (Customer churn classifier on a synthetic dataset. Compares four models with five-fold cross-validation in a scikit-learn) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 465.3898 Tm (pipeline, with a Streamlit interface, evaluation reports and test cases.) Tj T* ET
+BT /F1 8.6 Tf 10.32 TL ET
+.043137 .360784 .678431 rg
+BT 1 0 0 1 44 452.5898 Tm (github.com/Mo7am2d-1/AI-Decision-Prediction-System) Tj T* ET
+BT /F2 10.3 Tf 12.36 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 435.5898 Tm (Messy Sales Data Cleaner) Tj T* ET
+BT /F1 8.8 Tf 10.56 TL ET
+.333333 .380392 .431373 rg
+BT 1 0 0 1 179.0917 435.5898 Tm (Python, pandas \(synthetic demo data\)) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 423.5898 Tm (Turns a messy sales export into an analysis-ready CSV plus a change report: city spellings 9 to 5, three date formats to) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 410.7898 Tm (one, mixed amounts to numeric EGP, 49 invalid emails flagged. Missing values stay empty, never guessed.) Tj T* ET
+BT /F1 8.6 Tf 10.32 TL ET
+.043137 .360784 .678431 rg
+BT 1 0 0 1 44 397.9898 Tm (mo7am2d-1.github.io \(demo and code\)) Tj T* ET
+BT /F2 10.3 Tf 12.36 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 380.9898 Tm (Cereon) Tj T* ET
+BT /F1 8.8 Tf 10.56 TL ET
+.333333 .380392 .431373 rg
+BT 1 0 0 1 87.4835 380.9898 Tm (Web app, Arabic interface \(local trial version\)) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 368.9898 Tm (Arabic web app for studying from lectures. Add PDF, PowerPoint, Word or image files, choose which lectures to use, and) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 356.1898 Tm (ask questions in chat. Answers rely on the selected lectures and the app says when information is unclear.) Tj T* ET
+BT /F1 8.6 Tf 10.32 TL ET
+.043137 .360784 .678431 rg
+BT 1 0 0 1 44 343.3898 Tm (mo7am2d-1.github.io \(screenshot\)) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.333333 .380392 .431373 rg
+BT 1 0 0 1 44 326.3898 Tm (Also on GitHub: AI Game Agent \(Deep Q-Learning\), Customer Intelligence Decision Platform \(Telco churn\), CS50 AI Training) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.333333 .380392 .431373 rg
+BT 1 0 0 1 44 313.5898 Tm (Pack \(ten practice projects\).) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
+.043137 .360784 .678431 rg
+BT 1 0 0 1 44 291.7898 Tm (TRAINING AND CERTIFICATES) Tj T* ET
+.835294 .862745 .894118 RG
+.8 w
+n 207.7465 295.2898 m 551.2756 295.2898 l S
+BT /F2 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 277.7898 Tm (DEPI \(MCIT\), Nov 2025 - Jul 2026) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+BT 1 0 0 1 194.1965 277.7898 Tm (- AI and Data Science, Microsoft Machine Learning Engineer track) Tj T* ET
+BT /F2 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 264.7898 Tm (NTI / ITIDA, Aug - Sep 2026) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+BT 1 0 0 1 168.8633 264.7898 Tm (- Machine Learning summer training, 120 hours, including 30 freelancing hours) Tj T* ET
+BT /F2 9.3 Tf 11.16 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 251.7898 Tm (NTI, Jul - Aug 2026) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+BT 1 0 0 1 133.2071 251.7898 Tm (- Artificial Intelligence training, 80 hours) Tj T* ET
+BT /F2 9.1 Tf 10.92 TL ET
+.333333 .380392 .431373 rg
+BT 1 0 0 1 44 235.7898 Tm (Certificates with public verification links \(see portfolio\):) Tj T* ET
+.043137 .360784 .678431 rg
 n
-53.4 447.8898 m
-53.4 448.663 52.7732 449.2898 52 449.2898 c
-51.2268 449.2898 50.6 448.663 50.6 447.8898 c
-50.6 447.1166 51.2268 446.4898 52 446.4898 c
-52.7732 446.4898 53.4 447.1166 53.4 447.8898 c
+49.5 226.2898 m
+49.5 227.1182 48.82843 227.7898 48 227.7898 c
+47.17157 227.7898 46.5 227.1182 46.5 226.2898 c
+46.5 225.4613 47.17157 224.7898 48 224.7898 c
+48.82843 224.7898 49.5 225.4613 49.5 226.2898 c
 f*
-BT /F1 9.5 Tf 11.4 TL ET
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 62 444.8898 Tm (Built a Python desktop tool for PDF, Word and text extraction and audio/video transcription with faster-whisper.) Tj T* ET
-.105882 .14902 .192157 rg
+BT 1 0 0 1 58 222.9898 Tm (IBM SkillsBuild: Web Development Fundamentals \(Aug 2026\)) Tj T* ET
+.043137 .360784 .678431 rg
 n
-53.4 434.8898 m
-53.4 435.663 52.7732 436.2898 52 436.2898 c
-51.2268 436.2898 50.6 435.663 50.6 434.8898 c
-50.6 434.1166 51.2268 433.4898 52 433.4898 c
-52.7732 433.4898 53.4 434.1166 53.4 434.8898 c
+49.5 213.4898 m
+49.5 214.3182 48.82843 214.9898 48 214.9898 c
+47.17157 214.9898 46.5 214.3182 46.5 213.4898 c
+46.5 212.6613 47.17157 211.9898 48 211.9898 c
+48.82843 211.9898 49.5 212.6613 49.5 213.4898 c
 f*
-BT /F1 9.5 Tf 11.4 TL ET
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 62 431.8898 Tm (Integrated local Ollama models for chunk-based summarization, a Tkinter interface and Markdown/HTML) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 58 210.1898 Tm (ITI Mahara-Tech AI Academy, 8 courses \(Aug 2026\): Python Programming Basics, four Java courses, two IoT courses,) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 62 418.8898 Tm (study-reference outputs.) Tj T* ET
-BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 58 197.3898 Tm (Developing Gen-AI Powered and Agentic Applications) Tj T* ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 391.8898 Tm (SELECTED TRAINING) Tj T* ET
-.811765 .839216 .870588 RG
-n 48 387.8898 m 547.2756 387.8898 l S
-BT /F2 9.5 Tf 11.4 TL ET
+n
+49.5 187.8898 m
+49.5 188.7182 48.82843 189.3898 48 189.3898 c
+47.17157 189.3898 46.5 188.7182 46.5 187.8898 c
+46.5 187.0613 47.17157 186.3898 48 186.3898 c
+48.82843 186.3898 49.5 187.0613 49.5 187.8898 c
+f*
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 373.8898 Tm (DEPI | Nov 2025 - Jul 2026) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 58 184.5898 Tm (Edraak: Introduction to Python Programming; HP LIFE: Critical Thinking in the AI Era, Professional Communication for) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 360.8898 Tm (AI & Data Science - Microsoft Machine Learning Engineer training track, MCIT.) Tj T* ET
-BT /F2 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 345.8898 Tm (NTI / ITIDA | Aug - Sep 2026) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 332.8898 Tm (Machine Learning summer training, 120 hours, including 30 freelancing hours.) Tj T* ET
-BT /F2 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 317.8898 Tm (NTI | Jul - Aug 2026) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 304.8898 Tm (Artificial Intelligence training, 80 hours.) Tj T* ET
-BT /F2 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 289.8898 Tm (IBM SkillsBuild | Aug 2026) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-.105882 .14902 .192157 rg
-BT 1 0 0 1 48 276.8898 Tm (Web Development Fundamentals badge) Tj T* ET
-BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 58 171.7898 Tm (Career Growth) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
 .043137 .360784 .678431 rg
-BT 1 0 0 1 48 251.8898 Tm (EDUCATION & LANGUAGE) Tj T* ET
-.811765 .839216 .870588 RG
-n 48 247.8898 m 547.2756 247.8898 l S
-BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 44 149.9898 Tm (EDUCATION) Tj T* ET
+.835294 .862745 .894118 RG
+.8 w
+n 114.412 153.4898 m 551.2756 153.4898 l S
+BT /F2 9.8 Tf 11.76 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 233.8898 Tm (Delta Technology University \(DTU\)) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 44 135.9898 Tm (Delta Technology University \(DTU\)) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+BT 1 0 0 1 432.9238 135.9898 Tm (Third year, currently enrolled) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 220.8898 Tm (Technological College of Industry and Energy) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 44 123.3898 Tm (Technological College of Industry and Energy. Information Technology. Language: English B1 \(self-assessed\).) Tj T* ET
+ 
+endstream
+endobj
+18 0 obj
+<<
+/Length 3346
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 11 Tf 13.2 TL ET
+.058824 .152941 .258824 rg
+BT 1 0 0 1 44 785.8898 Tm (Mohamed Faisal) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.333333 .380392 .431373 rg
+BT 1 0 0 1 506.2486 785.8898 Tm (CV, page 2) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
+.043137 .360784 .678431 rg
+BT 1 0 0 1 44 762.8898 Tm (ADDITIONAL TRAINING \(CERTIFICATES AVAILABLE ON REQUEST\)) Tj T* ET
+.835294 .862745 .894118 RG
+.8 w
+n 392.0845 766.3898 m 551.2756 766.3898 l S
+BT /F2 9 Tf 10.8 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 207.8898 Tm (Information Technology, third year; currently enrolled.) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 44 748.8898 Tm (IBM SkillsBuild) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
 .105882 .14902 .192157 rg
-BT 1 0 0 1 48 194.8898 Tm (English: B1 \(self-assessed\)) Tj T* ET
+BT 1 0 0 1 182 748.8898 Tm (Machine Learning with Python \(20 h\); Introduction to Generative AI \(4 h\); A Brief History of) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 736.4898 Tm (AI \(5 h 13 min\); Classifying and summarizing data with IBM Granite \(3 h 30 min\); What is) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 724.0898 Tm (JavaScript? \(7 h 17 min\); AI exploration, Arabic course \(1 h 30 min\). Aug 2026) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 706.6898 Tm (Simplilearn SkillUp) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 706.6898 Tm (Introduction to Artificial Intelligence \(28 Aug 2026\); Machine Learning Using Python \(31 Aug) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 694.2898 Tm (2026\)) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 676.8898 Tm (MCIT / Huawei) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 676.8898 Tm (MCIT with Microsoft \(Fast Lane\): AI Literacy, Jun 2026. Huawei ICT Academy: Overview of) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 664.4898 Tm (AI, course completion certificate, 14 Sep 2026) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 647.0898 Tm (HP LIFE and Edraak) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 647.0898 Tm (HP LIFE: Strategic Planning in the AI Era; AI for Beginners; Information Technology for) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 634.6898 Tm (Business Success. Edraak: Introduction to AI and Generative AI \(Arabic and English) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 622.2898 Tm (versions\). 25 Aug 2026) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 44 604.8898 Tm (Other) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 604.8898 Tm (Forsa: AI Marketing Mastery, 25 Aug 2026. CodeChef: Problem solving in Python, 27 Apr) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 592.4898 Tm (2026. UNICEF Agora: Leadership for Planning and Decision-Making with Adolescents, 12) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 580.0898 Tm (Jun 2026. CILSS AGRHYMET: Integrating climate change into policies \(French\), 31 Aug) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 567.6898 Tm (2026. UNU-IAS: Net Zero 101, 31 Aug 2026. OurPlanet.Rocks Hackathon: participation, 7-9) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.105882 .14902 .192157 rg
+BT 1 0 0 1 182 555.2898 Tm (Aug 2026) Tj T* ET
  
 endstream
 endobj
 xref
-0 9
+0 19
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
-0000000536 00000 n 
-0000000604 00000 n 
-0000000916 00000 n 
-0000000975 00000 n 
+0000000503 00000 n 
+0000000712 00000 n 
+0000000890 00000 n 
+0000001068 00000 n 
+0000001252 00000 n 
+0000001455 00000 n 
+0000001629 00000 n 
+0000001804 00000 n 
+0000002072 00000 n 
+0000002278 00000 n 
+0000002348 00000 n 
+0000002666 00000 n 
+0000002734 00000 n 
+0000012758 00000 n 
 trailer
 <<
 /ID 
-[<4ab05e83482af7d193bce3a6e4f8c9fe><4ab05e83482af7d193bce3a6e4f8c9fe>]
+[<2b815560d731a8ac18f4fe0ee8d70c19><2b815560d731a8ac18f4fe0ee8d70c19>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Info 15 0 R
+/Root 14 0 R
+/Size 19
 >>
 startxref
-7966
+16156
 %%EOF
