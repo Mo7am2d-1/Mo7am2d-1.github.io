@@ -123,7 +123,7 @@ endobj
 endobj
 19 0 obj
 <<
-/Length 8758
+/Length 8833
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -279,7 +279,7 @@ BT /F2 10.3 Tf 12.36 TL ET
 BT 1 0 0 1 44 326.3898 Tm (Mushroom Edibility Classification) Tj T* ET
 BT /F1 8.8 Tf 10.56 TL ET
 .333333 .380392 .431373 rg
-BT 1 0 0 1 217.4077 326.3898 Tm (Python, scikit-learn, Streamlit \(practice project, public UCI dataset\)) Tj T* ET
+BT 1 0 0 1 217.4077 326.3898 Tm (Python, scikit-learn, Streamlit \(practice project built with AI assistance, public UCI dataset\)) Tj T* ET
 BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
 BT 1 0 0 1 44 314.3898 Tm (Decision tree and random forest on the UCI Mushroom dataset \(8,124 records, 22 categorical features\), compared with a) Tj T* ET
@@ -297,7 +297,7 @@ BT /F2 10.3 Tf 12.36 TL ET
 BT 1 0 0 1 44 258.9898 Tm (Advertising Sales Prediction) Tj T* ET
 BT /F1 8.8 Tf 10.56 TL ET
 .333333 .380392 .431373 rg
-BT 1 0 0 1 191.668 258.9898 Tm (Python, scikit-learn, Streamlit \(practice project, public ISLR dataset\)) Tj T* ET
+BT 1 0 0 1 191.668 258.9898 Tm (Python, scikit-learn, Streamlit \(practice project built with AI assistance, public ISLR dataset\)) Tj T* ET
 BT /F1 9.3 Tf 11.16 TL ET
 .105882 .14902 .192157 rg
 BT 1 0 0 1 44 246.9898 Tm (Linear regression and random forest predicting sales from TV, radio and newspaper budgets \(200 markets\): test R2 0.90) Tj T* ET
@@ -312,10 +312,10 @@ BT /F1 9 Tf 10.8 TL ET
 BT 1 0 0 1 44 204.3898 Tm (Also on GitHub: AI Game Agent \(Deep Q-Learning\), Customer Intelligence Decision Platform \(Telco churn, team project\), CS50) Tj T* ET
 BT /F1 9 Tf 10.8 TL ET
 .333333 .380392 .431373 rg
-BT 1 0 0 1 44 191.5898 Tm (AI Training Pack \(ten practice projects\), Iris Flower Classification and Mall Customer Segmentation \(small practice projects\),) Tj T* ET
+BT 1 0 0 1 44 191.5898 Tm (AI Training Pack \(ten practice projects\), Iris Flower Classification and Mall Customer Segmentation \(small practice projects built) Tj T* ET
 BT /F1 9 Tf 10.8 TL ET
 .333333 .380392 .431373 rg
-BT 1 0 0 1 44 178.7898 Tm (NTI ML Course Notebooks \(course work\).) Tj T* ET
+BT 1 0 0 1 44 178.7898 Tm (with AI assistance\), NTI ML Course Notebooks \(course work\).) Tj T* ET
  
 endstream
 endobj
@@ -499,7 +499,7 @@ xref
 0000002765 00000 n 
 0000003083 00000 n 
 0000003151 00000 n 
-0000011961 00000 n 
+0000012036 00000 n 
 trailer
 <<
 /ID 
@@ -511,5 +511,5 @@ trailer
 /Size 21
 >>
 startxref
-18557
+18632
 %%EOF
